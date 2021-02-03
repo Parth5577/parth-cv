@@ -1,0 +1,102 @@
+{
+  "main": {
+    "name": "Parth Bhavsar",
+    "occupation": "Student",
+    "description": "I eat, sleep and breathe code",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Parth! Last year BE Student.",
+    
+    "email": "parthbhavsar72@gmail.com",
+    "phone": "+91 7016018306",
+    "address": {
+      "street": "Kankariya",
+      "city": "Ahmedabad",
+      "state": "Gujrat",
+      "zip": "-----"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/parth.bhavsar.5095",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/parth-bhavsar-3566481b6",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mr.p_a_r_t_h__5577/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Parth5577",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Narnarayan Shastri Institute of Technology",
+        "Collage":"Narnarayan Shastri Institute of Technology",
+        "degree": "Bachelor's Degree, Computer Engineering",
+        "graduated": "May 2021"
+      }
+    ],
+    "work": [
+      {
+        "company": "Edureka",
+        "title": "Full Stack Devlopment",
+        "years": "3 Month internship",
+        "description": "As an Edureka Intern for Successfully completing the Edureka Full-Stack Web Devlopment Program and Building a Fully-Featured Web Product."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C",
+        "level": "100%"
+      },
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+     
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "React Js",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "DBMS",
+        "level": "70%"
+      }
+    ]
+  },
+ 
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Parth is absolutely excellent,They have demonstrated exceptional skills in problem-solving, coding and working within teams.",
+        "user": "Edureka Team"
+      }
+     
+    ]
+  }
+}
